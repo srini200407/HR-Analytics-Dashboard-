@@ -42,4 +42,4 @@ Compare performance metrics across roles and regions
 
 Support HR decision-making with data-backed visuals
 
-![image alt]("https://raw.githubusercontent.com/srini200407/HR-Analytics-Dashboard-/cddbcd4f858168cdf5d13ec715306a39f88155be/Screenshot%202025-08-02%20012656.png")
+![image alt](https://github.com/srini200407/HR-Analytics-Dashboard-/blob/main/Screenshot%202025-08-02%20012656.png?raw=true)
