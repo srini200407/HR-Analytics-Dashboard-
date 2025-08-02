@@ -40,5 +40,6 @@ Analyze trends in workforce diversity
 
 Compare performance metrics across roles and regions
 
-Support HR decision-making with data-backed visuals# HR-Analytics-Dashboard-
+Support HR decision-making with data-backed visuals
+
 ![image alt]("C:\Users\hk472\Pictures\Screenshots\Screenshot 2025-08-02 012656.png")
